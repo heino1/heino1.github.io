@@ -4,6 +4,6 @@ date: 2025-04-27
 draft: false
 ---
 
-# Tere tulemast
+# Tere tulemast!!
 
-Siin lehel näeb Onu Heino tegemisi ning ka minu blogid.
+Siin lehel näeb Onu Heino tegemisi ning ka minu blogi.
