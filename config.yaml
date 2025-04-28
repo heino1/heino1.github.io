@@ -30,7 +30,7 @@ params:
   description: "Hugo Zen teema näidisleht"
   dateformat: "02.01.2006"
   favicon: "apple-touch-icon.png"
-  feedlinks: true
+  feedlinks: true 
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400

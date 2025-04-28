@@ -6,4 +6,4 @@ draft: false
 
 # Tere tulemast
 
-Siin lehel näeb Onu Heino tegemisi ning ka minu blogi.
+Siin lehel näeb Onu Heino tegemisi ning ka minu blogid.
