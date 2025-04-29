@@ -1,13 +1,13 @@
 ---
-title: "Esimene Blogi"
+title: "Ikea Effekt"
 date: 2025-04-29
 draft: false
 ---
-# Lugesin täna artiklit IKEA efektist ja mõtlesin, et mida ma SEB-s oleks võinud teisiti teha. 
+# Lugesin täna artiklit IKEA efektist ja mõtlesin, et mida ma SEBs oleks võinud teisiti teha. 
 
 Artikli autor, Jeremy Brown,  on endine Red Hat'i Innovatsiooni Labori käivitaja.  
 
-[Siin on lühikokkuvõte: IKEA efektist ja asjada untsu keeramisest.](https://www.jeremybrown.tech/the-ikea-effect/)
+[Siin on artikkel ise: "The IKEA Effect and How I Screwed Up!"](https://www.jeremybrown.tech/the-ikea-effect/)
 
 - Allika ülevaade
 
@@ -16,9 +16,12 @@ See dokument põhineb Jeremy Browni kirjutisel "The IKEA Effect and How I Screwe
 - Põhiteemad ja olulisemad ideed
 
 Artikli peamine teema on organisatsiooniliste muutuste edukas elluviimine, keskendudes töötajate kaasamisele ja IKEA efekti rakendamisele. Jeremy Brown kirjeldab oma kogemust, kus ta ebaõnnestus muutuste elluviimisel, jättes inimesed protsessist kõrvale, ning toob sellest välja olulised õppetunnid.
+
 1. IKEA efekt organisatsioonilistes muutustes
 Põhiidee: IKEA efekt seisneb selles, et inimesed hindavad kõrgemalt asju, mille loomisesse nad on ise panustanud. Organisatsioonilises kontekstis tähendab see, et kui töötajad osalevad muutuste määratlemisel, kujundamisel ja täpsustamisel, tunnevad nad suuremat omandi- ja vastutustunnet. See suurendab osalemisvalmidust ja muutuste omaksvõtmist.
-Tsitaat: "We can use this when making changes in an organisation by co-creating the change with those impacted by the change because when people have a part in defining, designing, and refining, they're far more likely to feel ownership."
+
+<quot>Tsitaat: "We can use this when making changes in an organisation by co-creating the change with those impacted by the change because when people have a part in defining, designing, and refining, they're far more likely to feel ownership."
+</quot>
 2. Jeremy Browni ebaõnnestumine ja selle põhjused
 Põhiidee: Autor kirjeldab olukorda, kus ta soovis sisse viia protsessimuutusi, kuid tegi seda ilma otseselt mõjutatud inimesi kaasata. Ta töötas taustal, kaasas vaid mõned kõrgema taseme juhid ning esitas seejärel põhjaliku ja viimistletud ettepaneku dokumendina. Reaktsioon oli vaikus ja negatiivsed kommentaarid. Peamised vead olid:
 Vara ja piisavalt selgelt mittekommunikeerimine: Inimesed ei teadnud, miks muutus vajalik on.
@@ -43,5 +46,6 @@ Tsitaat "aeglaselt, et kiiresti jõuda": "It's either you spend it at the front,
 4. Mittekaasamise ohud
 Põhiidee: Kui muudatusi viiakse ellu ilma inimesi kaasamata, võib see viia meeskonnaliikmete vähese initsiatiivi ja vastutustunde puudumiseni. Juht võib hakata tundma koormat, muutuda direktiivsemaks ja hakata meeskonnaliikmeid halvustama. See kahjustab usaldust ja suhteid.
 Tsitaat: "If you go down the path alone, you might feel burdened, like you have to solve all the problems thrown at your solution. You might start resenting the people who report to you, and you could become much more directive because you figure your team won't take responsibility anyway."
-Kokkuvõte
+
+- Kokkuvõte
 Artikkel rõhutab tungivalt vajadust kaasata asjassepuutuvaid inimesi organisatsiooniliste muutuste protsessi algusest peale. IKEA efekti kasutamine - lastes inimestel muutusi ise kujundada - loob omanditunde ja suurendab osalemisvalmidust. Jeremy Browni isiklik kogemus on valus, kuid väärtuslik õppetund sellest, mis juhtub, kui seda põhimõtet eiratakse. Edukad muutused eeldavad varajast ja selget kommunikatsiooni, ühise "miksi" määratlemist, poolikute versioonide jagamist, targalt delegeerimist, kaasavat keelt ja piisavalt aega tagasisideks. Aeganõudvam kaasamine alguses tasub end ära kiirema ja sujuvama elluviimisega hiljem.
