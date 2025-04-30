@@ -20,16 +20,17 @@ Artikli peamine teema on organisatsiooniliste muutuste edukas elluviimine, keske
 1. IKEA efekt organisatsioonilistes muutustes
 Põhiidee: IKEA efekt seisneb selles, et inimesed hindavad kõrgemalt asju, mille loomisesse nad on ise panustanud. Organisatsioonilises kontekstis tähendab see, et kui töötajad osalevad muutuste määratlemisel, kujundamisel ja täpsustamisel, tunnevad nad suuremat omandi- ja vastutustunnet. See suurendab osalemisvalmidust ja muutuste omaksvõtmist.
 
-<quot>Tsitaat: "We can use this when making changes in an organisation by co-creating the change with those impacted by the change because when people have a part in defining, designing, and refining, they're far more likely to feel ownership."
-</quot>
+<blockquote>Tsitaat: "We can use this when making changes in an organisation by co-creating the change with those impacted by the change because when people have a part in defining, designing, and refining, they're far more likely to feel ownership."
+</blockquote>
+
 2. Jeremy Browni ebaõnnestumine ja selle põhjused
 Põhiidee: Autor kirjeldab olukorda, kus ta soovis sisse viia protsessimuutusi, kuid tegi seda ilma otseselt mõjutatud inimesi kaasata. Ta töötas taustal, kaasas vaid mõned kõrgema taseme juhid ning esitas seejärel põhjaliku ja viimistletud ettepaneku dokumendina. Reaktsioon oli vaikus ja negatiivsed kommentaarid. Peamised vead olid:
-Vara ja piisavalt selgelt mittekommunikeerimine: Inimesed ei teadnud, miks muutus vajalik on.
-Ühise "miksi" ja probleemi määratluse puudumine: Probleemi ei määratletud koos asjaosalistega.
-Lõpliku "meisterteose" esitamine, mitte "20% kavandi": Viimistletud dokument ei jätnud ruumi panustamiseks ega tundunud avatud tagasisidele.
-Oma positsioonist tuleneva võimu alahindamine: Juhi esitatud lõplik ettepanek tekitab töötajates hirmu negatiivse tagasiside andmise ees.
-Inimeste kaasamise puudumine ja vale delegeerimine: Muutuste määratlemist ja kujundamist ei delegeeritud asjaosalistele meeskonnaliikmetele.
-Vale keelekasutus: Kasutati "mina"-keelt ja minevikku, mis viitas projekti lõpetatusele, mitte koostööle ja käimasolevale protsessile.
+- Vara ja piisavalt selgelt mittekommunikeerimine: Inimesed ei teadnud, miks muutus vajalik on.
+- Ühise "miksi" ja probleemi määratluse puudumine: Probleemi ei määratletud koos asjaosalistega.
+- Lõpliku "meisterteose" esitamine, mitte "20% kavandi": Viimistletud dokument ei jätnud ruumi panustamiseks ega tundunud avatud tagasisidele.
+- Oma positsioonist tuleneva võimu alahindamine: Juhi esitatud lõplik ettepanek tekitab töötajates hirmu negatiivse tagasiside andmise ees.
+- Inimeste kaasamise puudumine ja vale delegeerimine: Muutuste määratlemist ja kujundamist ei delegeeritud asjaosalistele meeskonnaliikmetele.
+- Vale keelekasutus: Kasutati "mina"-keelt ja minevikku, mis viitas projekti lõpetatusele, mitte koostööle ja käimasolevale protsessile.
 Tagasiside andmiseks ebapiisava aja ja juhiste andmine: Ulatuslik dokument esitati korraga ja küsiti liiga laia tagasisidet ilma suunavate küsimusteta.
 Tsitaat ebaõnnestumise kohta: "Unfortunately, in my enthusiasm for implementing some changes with a client, I ignored my advice, and the situation blew up."
 3. Olulised õppetunnid ja soovitused edukateks muutusteks
