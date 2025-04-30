@@ -31,7 +31,7 @@ Põhiidee: Autor kirjeldab olukorda, kus ta soovis sisse viia protsessimuutusi, 
 - Oma positsioonist tuleneva võimu alahindamine: Juhi esitatud lõplik ettepanek tekitab töötajates hirmu negatiivse tagasiside andmise ees.
 - Inimeste kaasamise puudumine ja vale delegeerimine: Muutuste määratlemist ja kujundamist ei delegeeritud asjaosalistele meeskonnaliikmetele.
 - Vale keelekasutus: Kasutati "mina"-keelt ja minevikku, mis viitas projekti lõpetatusele, mitte koostööle ja käimasolevale protsessile.
-Tagasiside andmiseks ebapiisava aja ja juhiste andmine: Ulatuslik dokument esitati korraga ja küsiti liiga laia tagasisidet ilma suunavate küsimusteta.
+- Tagasiside andmiseks ebapiisava aja ja juhiste andmine: Ulatuslik dokument esitati korraga ja küsiti liiga laia tagasisidet ilma suunavate küsimusteta.
 Tsitaat ebaõnnestumise kohta: "Unfortunately, in my enthusiasm for implementing some changes with a client, I ignored my advice, and the situation blew up."
 3. Olulised õppetunnid ja soovitused edukateks muutusteks
 Põhiidee: Oma ebaõnnestumisest õppides sõnastab autor rea soovitusi, kuidas organisatsioonilisi muutusi edukamalt juhtida, kasutades ära IKEA efekti ja tagades töötajate kaasamise.
