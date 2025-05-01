@@ -10,4 +10,3 @@ draft: false
 
 Siin lehel näeb Onu Heino tegemisi ning ka tema blogi.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=heino1.github.io&label=külastajaid&labelColor=%23697689&countColor=%23263759)
