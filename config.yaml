@@ -1,6 +1,6 @@
 ---
 title: "Onu Heino veebileht"
-baseURL: "https://example.org/"
+baseURL: "https://heino1.github.io/"
 theme: "zen"
 languageCode: "et"
 defaultContentLanguage: "et"
@@ -26,8 +26,8 @@ outputs:
   section: ["HTML","RSS", "JSON"]
 
 params:
-  contact: "info@example.org"
-  description: "Hugo Zen teema näidisleht"
+  contact: "heino.talvik@gmail.com"
+  description: "Zen teemaga Onu Heino leht"
   dateformat: "02.01.2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true 
@@ -43,7 +43,7 @@ params:
   copyright: "© 2025"
   author:
     name: "" 
-    url: "https://example.org/"
+    url: "https://heino1.github.io/"
 
 menus:
   main:
