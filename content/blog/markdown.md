@@ -503,7 +503,7 @@ Emoji lisamiseks kasuta kooloneid ja emoji koodi:
 
 Tulemus:
 
-:smile: :heart: :thumbsup:
+`:smile:` `:heart:` `:thumbsup:`
 
 ## HTML Markdown-is
 
