@@ -23,10 +23,11 @@ Põhiidee: IKEA efekt seisneb selles, et inimesed hindavad kõrgemalt asju, mill
 <blockquote>Tsitaat: "We can use this when making changes in an organisation by co-creating the change with those impacted by the change because when people have a part in defining, designing, and refining, they're far more likely to feel ownership."
 </blockquote>
 
-2 Jeremy Brown kirjeldab oma halba sooritust ja selle põhjused
+2 Jeremy Brown kirjeldab oma halba sooritust ja selle põhjuseid 
+
 Põhiidee: Autor kirjeldab olukorda, kus ta soovis sisse viia protsessimuutusi, kuid tegi seda ilma otseselt mõjutatud inimesi kaasata. Ta töötas taustal, kaasas vaid mõned kõrgema taseme juhid ning esitas seejärel põhjaliku ja viimistletud ettepaneku dokumendina. Reaktsioon oli vaikus ja negatiivsed kommentaarid. Peamised vead olid:
 
-- Vara ja piisavalt selgelt mittekommunikeerimine: Inimesed ei teadnud, miks muutus vajalik on.
+- Ennatlik ja piisavalt selgelt mittekommunikeerimine: Inimesed ei teadnud, miks muutus vajalik on.
 - Ühise "miksi" ja probleemi määratluse puudumine: Probleemi ei määratletud koos asjaosalistega.
 - Lõpliku "meisterteose" esitamine, mitte "20% kavandi": Viimistletud dokument ei jätnud ruumi panustamiseks ega tundunud avatud tagasisidele.
 - Oma positsioonist tuleneva võimu alahindamine: Juhi esitatud lõplik ettepanek tekitab töötajates hirmu negatiivse tagasiside andmise ees.
