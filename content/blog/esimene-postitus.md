@@ -3,7 +3,7 @@ title: "Ikea Effekt"
 date: 2025-04-29
 draft: false
 ---
-# Lugesin täna artiklit IKEA efektist ja mõtlesin, et mida ma SEBs oleks võinud teisiti teha. 
+# Lugesin täna artiklit IKEA efektist ja mõtlesin, et mida ma oleks võinud teisiti teha. 
 
 Artikli autor, Jeremy Brown,  on endine Red Hat'i Innovatsiooni Labori käivitaja.  
 
