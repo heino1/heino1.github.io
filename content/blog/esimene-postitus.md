@@ -17,13 +17,13 @@ See dokument põhineb Jeremy Browni kirjutisel "The IKEA Effect and How I Screwe
 
 Artikli peamine teema on organisatsiooniliste muutuste edukas elluviimine, keskendudes töötajate kaasamisele ja IKEA efekti rakendamisele. Jeremy Brown kirjeldab oma kogemust, kus ta ebaõnnestus muutuste elluviimisel, jättes inimesed protsessist kõrvale, ning toob sellest välja olulised õppetunnid.
 
-1  IKEA efekt organisatsioonilistes muutustes
+1  IKEA efekt organisatsioonilistes muutustes 
 Põhiidee: IKEA efekt seisneb selles, et inimesed hindavad kõrgemalt asju, mille loomisesse nad on ise panustanud. Organisatsioonilises kontekstis tähendab see, et kui töötajad osalevad muutuste määratlemisel, kujundamisel ja täpsustamisel, tunnevad nad suuremat omandi- ja vastutustunnet. See suurendab osalemisvalmidust ja muutuste omaksvõtmist.
 
 <blockquote>Tsitaat: "We can use this when making changes in an organisation by co-creating the change with those impacted by the change because when people have a part in defining, designing, and refining, they're far more likely to feel ownership."
 </blockquote>
 
-2 Jeremy Browni ebaõnnestumine ja selle põhjused
+2 Jeremy Brown kirjeldab oma halba sooritust ja selle põhjused
 Põhiidee: Autor kirjeldab olukorda, kus ta soovis sisse viia protsessimuutusi, kuid tegi seda ilma otseselt mõjutatud inimesi kaasata. Ta töötas taustal, kaasas vaid mõned kõrgema taseme juhid ning esitas seejärel põhjaliku ja viimistletud ettepaneku dokumendina. Reaktsioon oli vaikus ja negatiivsed kommentaarid. Peamised vead olid:
 
 - Vara ja piisavalt selgelt mittekommunikeerimine: Inimesed ei teadnud, miks muutus vajalik on.
