@@ -506,6 +506,8 @@ Tulemus:
 `:smile:` `:heart:` `:thumbsup:`
 `:bowtie:` :bowtie:
 
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+
 ## HTML Markdown-is
 
 Markdown toetab HTML-i kasutamist:
