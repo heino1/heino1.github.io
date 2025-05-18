@@ -504,6 +504,7 @@ Emoji lisamiseks kasuta kooloneid ja emoji koodi:
 Tulemus:
 
 `:smile:` `:heart:` `:thumbsup:`
+`:bowtie:` :bowtie:
 
 ## HTML Markdown-is
 
