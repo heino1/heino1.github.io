@@ -506,6 +506,7 @@ Tulemus:
 `:smile:` `:heart:` `:thumbsup:`
 `:bowtie:` :bowtie:
 
+😃 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :zipper_mouth_face: | `:zipper_mouth_face:` | :raised_eyebrow: | `:raised_eyebrow:` |
 
