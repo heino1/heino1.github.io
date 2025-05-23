@@ -578,7 +578,7 @@ $$
 
 ## Matemaatika
 
-Siin on võrrand: \( x = {-b \pm \sqrt{b^2-4ac} \over 2a} \)
+Siin on võrrand, mida tahaks näha: \( x = {-b \pm \sqrt{b^2-4ac} \over 2a} \)
 
 
 ## Diagrammid
