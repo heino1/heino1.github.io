@@ -572,6 +572,11 @@ $$
 \frac{n!}{k!(n-k)!} = \binom{n}{k}
 $$
 
+\[
+\frac{n!}{k!(n-k)!} = \binom{n}{k}
+\}
+
+
 ## Diagrammid
 
 Mõned Markdown protsessorid toetavad diagrammide loomist Mermaid või muude süntaksite abil:
