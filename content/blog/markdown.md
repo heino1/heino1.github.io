@@ -574,7 +574,7 @@ $$
 
 \[
 \frac{n!}{k!(n-k)!} = \binom{n}{k}
-\}
+\]
 
 
 ## Diagrammid
