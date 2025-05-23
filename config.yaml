@@ -6,7 +6,7 @@ languageCode: "et"
 defaultContentLanguage: "et"
 pluralizelisttitles: false
 removePathAccents: true
-enableEmoji = true 
+enableEmoji: true 
 
 languages:
   et:
