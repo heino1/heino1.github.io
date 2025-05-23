@@ -26,6 +26,20 @@ outputs:
   home: ["HTML","RSS", "JSON", "SearchIndex"]
   section: ["HTML","RSS", "JSON"]
 
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
 params:
   contact: "heino.talvik@gmail.com"
   description: "Zen teemaga Onu Heino leht"
@@ -41,6 +55,7 @@ params:
   sidebar: true
   sidebar_position: "right"
   submitted: true
+  math: true
   copyright: "© 2025"
   author:
     name: "" 
