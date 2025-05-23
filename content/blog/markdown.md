@@ -1,10 +1,3 @@
-{{ if .Site.Params.math }}
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-{{ end }}
-
 # Markdown märgendite ülevaateleht
 
 Markdown on lihtne ja laialt levinud märgenduskeel, mida kasutatakse teksti vormindamiseks. See loodi eesmärgiga olla kergesti loetav ja kirjutatav, võimaldades samal ajal teisendamist HTML-i ja teistesse vormingutesse. Käesolev ülevaateleht tutvustab kõiki peamisi Markdown märgendeid koos näidetega.
@@ -660,3 +653,9 @@ Markdown-i õppimine on lihtne ja selle kasutamine muudab dokumentide vormindami
 ---
 
 *See ülevaateleht on loodud õppematerjalina ja võib olla vabalt kasutatud ja jagatud.*
+{{ if .Site.Params.math }}
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{{ end }}
