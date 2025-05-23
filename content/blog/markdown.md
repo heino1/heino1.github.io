@@ -1,10 +1,10 @@
 {{ if .Site.Params.math }}
-<!-- KaTeX CDN -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
-    onload="renderMathInElement(document.body);"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 {{ end }}
+
 # Markdown märgendite ülevaateleht
 
 Markdown on lihtne ja laialt levinud märgenduskeel, mida kasutatakse teksti vormindamiseks. See loodi eesmärgiga olla kergesti loetav ja kirjutatav, võimaldades samal ajal teisendamist HTML-i ja teistesse vormingutesse. Käesolev ülevaateleht tutvustab kõiki peamisi Markdown märgendeid koos näidetega.
