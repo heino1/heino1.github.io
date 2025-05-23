@@ -40,6 +40,8 @@ markup:
           - - \(
             - \)
         enable: true
+    renderer:
+      unsafe: true
 params:
   contact: "heino.talvik@gmail.com"
   description: "Zen teemaga Onu Heino leht"
