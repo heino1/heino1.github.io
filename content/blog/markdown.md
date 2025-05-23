@@ -654,6 +654,7 @@ Markdown-i õppimine on lihtne ja selle kasutamine muudab dokumentide vormindami
 
 *See ülevaateleht on loodud õppematerjalina ja võib olla vabalt kasutatud ja jagatud.*
 <!-- Lisa see kas lehe <head> või markdown.md lõppu (HTML plokina) -->
+  <!-- Laadi MathJax -->
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
