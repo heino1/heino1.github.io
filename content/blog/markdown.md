@@ -564,7 +564,7 @@ $$
 
 Tulemus (kui toetatud, aga Hugo seda ei toeta):
 
-Reasisene valem: $E=mc^2$
+Reasisene valem: \(E=mc^2$\)
 
 Eraldi real olev valem:
 
