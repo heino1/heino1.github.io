@@ -1,6 +1,6 @@
 # Markdown märgendite ülevaateleht
 
-Markdown on lihtne ja laialt levinud märgenduskeel, mida kasutatakse teksti vormindamiseks. See loodi eesmärgiga olla kergesti loetav ja kirjutatav, võimaldades samal ajal teisendamist HTML-i ja teistesse vormingutesse. Käesolev ülevaateleht tutvustab kõiki peamisi Markdown märgendeid koos näidetega.
+Markdown on lihtne ja laialt levinud märgenduskeel, mida kasutatakse teksti vormindamiseks, näiteks GitHubis. See loodi eesmärgiga olla kergesti loetav ja kirjutatav, võimaldades samal ajal teisendamist HTML-i ja teistesse vormingutesse. Siin kasutadud Hugo framework siiski kõiki märgendusi hästi ei toeta. LaTeXi märegnduse sain läbi häda käima, otse ta ei olnud nõus toimima. Samas GitHub toimetab temaga hästi. Käesolev ülevaateleht tutvustab kõiki peamisi Markdown märgendeid koos näidetega, eesmärgiga neid Hugo kasutamiseks ära kasutada.
 
 ## Sisukord
 
@@ -498,16 +498,17 @@ Tulemus:
 Emoji lisamiseks kasuta kooloneid ja emoji koodi:
 
 ```markdown
-:smile: :heart: :thumbsup:
+:smile: :heart: :thumbsup: 
+
+Hugo frameworkis ei ole toetatud siiki kõik emotikonid, näiteks :bowtie:
 ```
 
 Tulemus:
 
-:smile: :heart: :thumbsup:
-`:bowtie:` :bowtie:
+:smile: :heart: :thumbsup: 
 
-😃 
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+
+| :smile: `:smile:` | :laughing: `:laughing:` |
 | :zipper_mouth_face: | `:zipper_mouth_face:` | :raised_eyebrow: | `:raised_eyebrow:` |
 
 ## HTML Markdown-is
@@ -589,7 +590,8 @@ Siin on võrrand, mida tahaks näha: \( x = {-b \pm \sqrt{b^2-4ac} \over 2a} \)
 
 ## Diagrammid
 
-Mõned Markdown protsessorid toetavad diagrammide loomist Mermaid või muude süntaksite abil:
+Mõned Markdown protsessorid toetavad diagrammide loomist Mermaid või muude süntaksite abil:,
+kuid Hugo ei saa sellega otse hakkama ja peale mõningasi katsetusi andsin ma alla.
 
 ````markdown
 ```mermaid
@@ -601,7 +603,11 @@ graph TD;
 ```
 ````
 
-Tulemus (kui toetatud):
+Tulemus (Hugos ei ole toetatud, see pilt on GitHubist):
+
+![Tulemus](/images/Diagram.png)
+
+Hugo näitab seda aga nii:
 
 ```mermaid
 graph TD;
