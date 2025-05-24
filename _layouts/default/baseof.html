@@ -1,15 +1,3 @@
-<!-- DOCTYPE html>
-<html lang="et">
-<head>
-  {{ partial "head.html" . }}
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
-<body>
-  {{ block "main" . }}{{ end }}
-</body>
-</html-->
 <!DOCTYPE html>
 <html class="nojs" lang="{{ site.Language.LanguageCode | default site.Language.Lang }}" dir="{{ site.Language.LanguageDirection | default "ltr" }}">
 <head>
@@ -25,10 +13,6 @@
 {{ partialCached "head/tracking.html" . }}
 {{ partial "head/extra.html" . }}
 {{ block "head" . }}{{ end }}
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 </head>
 
 <body class="{{ if .IsPage }}single-page{{ else }}list-page{{ end }}{{ if .IsHome }} front{{ end }}{{ with $.Param "bodyclass" }} {{ . }}{{ end }}">
