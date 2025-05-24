@@ -553,13 +553,19 @@ Tulemus:
 Paljud Markdown protsessorid toetavad LaTeX süntaksit matemaatiliste valemite jaoks:
 
 ```markdown
-Reasisene valem: $E=mc^2$
+Reasisene valem:  \(E=mc^2$\)
 
 Eraldi real olev valem:
 
 $$
 \frac{n!}{k!(n-k)!} = \binom{n}{k}
 $$
+
+või 
+\[
+\frac{n!}{k!(n-k)!} = \binom{n}{k}
+\]
+
 ```
 
 Tulemus (kui toetatud, aga Hugo seda ei toeta):
