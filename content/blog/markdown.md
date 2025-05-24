@@ -562,7 +562,7 @@ $$
 $$
 ```
 
-Tulemus (kui toetatud, aga Hugo seda vist ei toeta):
+Tulemus (kui toetatud, aga Hugo seda ei toeta):
 
 Reasisene valem: $E=mc^2$
 
