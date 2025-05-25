@@ -627,7 +627,7 @@ Erinevad Markdown laiendused pakuvad täiendavaid võimalusi:
 X^2^
 ```
 
-Tulemus (kui toetatud):
+Tulemus (Hugo ei toeta ):
 X^2^
 
 ### Alaindeks
@@ -636,7 +636,7 @@ X^2^
 H~2~O
 ```
 
-Tulemus (kui toetatud):
+Tulemus (Hugo ei toeta ):
 H~2~O
 
 ### Märgistatud tekst
@@ -645,7 +645,7 @@ H~2~O
 ==Märgistatud tekst==
 ```
 
-Tulemus (kui toetatud):
+Tulemus (Hugo ei toeta ):
 ==Märgistatud tekst==
 
 ## Markdown redaktorid
