@@ -4,7 +4,7 @@ date: 2025-06-04
 draft: false
 ---
 
-#Ülevaade: Tehisintellekti revolutsioon ja töömaailma ümberkujundamine 
+# Ülevaade: Tehisintellekti revolutsioon ja töömaailma ümberkujundamine 
 (https://www.forwardfuture.ai/p/the-dawn-of-the-frontier-firm-how-ai-agents-are-redefining-the-future-of-work)
 
 See ülevaade on koostatud tuginedes Microsofti 2025. aasta töösuundumuste indeksi (Work Trend Index Annual Report) tulemustele, mis on esitatud artiklis "Intelligentsuse revolutsioon: tehisintellekt muutuv töömaailm". Raporti keskmes on "Piirifirma" (Frontier Firm) kontseptsioon – ettevõtted, mis on täielikult ümber kujundanud oma tegevuse, integreerides tehisintellekti agendid ja inim-masin meeskonnatöö.
