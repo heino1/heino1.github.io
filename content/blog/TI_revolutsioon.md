@@ -7,7 +7,10 @@ draft: false
 # Ülevaade artiklist: Piirifirmade algusaeg: kuidas tehisintellekti agendid töö tulevikus ümber kujundavad. 
 (https://www.forwardfuture.ai/p/the-dawn-of-the-frontier-firm-how-ai-agents-are-redefining-the-future-of-work)
 
-Artikkel on koostatud tuginedes Microsofti 2025. aasta töösuundumuste indeksi (Work Trend Index Annual Report) tulemustele, mis on esitatud artiklis "Intelligentsuse revolutsioon: tehisintellekt muutuv töömaailm". Raporti keskmes on "Piirifirma" (Frontier Firm) kontseptsioon – ettevõtted, mis on täielikult ümber kujundanud oma tegevuse, integreerides tehisintellekti agendid ja inim-masin meeskonnatöö.
+Autor on palju mõelnud sellele, kuhu me tegevustes ja toimetamistes suundume ja jõudis järeldusele – me oleme ajaloolises pöördepunktis. 
+
+See ei ole lihtsalt järjekordne tehnoloogiline trend – see on sama suur ajalooline sündmus, kui aeg, kus me liikusime käsitöölt masstootmisele või kui internet muutis kõik. Me siseneme maailma, kus tehisintellekt suudab arutleda ja lahendada reaalseid probleeme, muutes intelligentsuse kättesaadavaks seal, kus seda vaja on. Ja see kirjutab täielikult ümber töökultuuri.
+Artikkel on koostatud tuginedes Microsofti 2025. aasta töösuundumuste analüüsi tulemustele (Work Trend Index Annual Report), mis on esitatud artiklis "Intelligentsuse revolutsioon: tehisintellekt muutuv töömaailm". Raporti keskmes on "Piirifirma" (Frontier Firm) kontseptsioon – ettevõtted, mis on täielikult ümber kujundanud oma tegevuse, integreerides tehisintellekti agendid ja inim-masin meeskonnatöö.
 Peamised teemad ja faktid:
 ## 1. Suur pöördepunkt töömaailmas:
 Artikkel rõhutab, et oleme suurel pöördepunktil, mis on võrreldav üleminekuga käsitööst masstootmisele või interneti tulekuga. Tehisintellekt (AI) on nüüd võimeline "mõtisklema ja lahendama tegelikke probleeme, muutes intelligentsuse kättesaadavaks alati, kui seda vaja on."
