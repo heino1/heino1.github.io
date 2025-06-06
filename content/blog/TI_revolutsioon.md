@@ -11,9 +11,9 @@ Autor on palju mõelnud sellele, kuhu me oma tegevustes ja toimetamistes suundum
 
 Artikkel on koostatud tuginedes Microsofti 2025. aasta töösuundumuste analüüsi tulemustele (Work Trend Index Annual Report) [Microsofti artikkel](https://www.technologyrecord.com/article/microsofts-2025-work-trend-index-annual-report-reveals-rise-in-new-type-of-organisation#:~:text=Microsoft%E2%80%99s%202025%20Work%20Trend%20Index%20Annual%20Report%20reveals...,to%20Microsoft%E2%80%99s%202025%20Work%20Trend%20Index%20Annual%20Report. "Microsoft’s 2025 Work Trend Index Annual Report reveals rise in new type of organisation"). MS'i raporti keskmes on "Piirifirma" (Frontier Firm) kontseptsioon – ettevõtted, mis on täielikult ümber kujundanud oma tegevuse, integreerides ettevõtte töövoogu tehisintellekti agendid ja inim-masin meeskonnatöö.
 ## Peamised teemad ja faktid:
-## 1. Suur pöördepunkt:
-Artikkel rõhutab, et TI ei ole lihtsalt järjekordne tehnoloogiline trend – see on suur ajalooline sündmus, sama suur kui üleminek  käsitöölt masstootmisele või interneti tulek. Me siseneme maailma, kus tehisintellekt suudab arutleda ja lahendada reaalseid probleeme, muutes intelligentsuse kättesaadavaks seal, kus seda vaja on. Ja see kujundab ümber meie töökultuuri.
-TI (AI) on nüüd võimeline "mõtisklema ja lahendama tegelikke probleeme, muutes intelligentsuse kättesaadavaks seal, kus seda vaja on."
+## 1. Suur pöördepunkt.
+Artikkel rõhutab, et TI ei ole lihtsalt järjekordne tehnoloogiline trend – see on suur ajalooline sündmus, sama suur kui üleminek  käsitöölt masstootmisele või interneti tulek. Me siseneme maailma, kus tehisintellekt suudab arutleda ja lahendada reaalseid probleeme, muutes intelligentsuse kättesaadavaks seal, kus seda vaja on. Ja see kujundab oluliselt ümber meie töökultuuri.
+
 ## 2. Võimekuse kriis: "Me kõik upume."
 Kaasaegset töökeskkonda iseloomustab ülekoormus.
 80% töötajatest tunneb, et neil napib aega ja energiat oma töö tegemiseks.
