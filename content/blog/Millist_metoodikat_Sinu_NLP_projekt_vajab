@@ -1,0 +1,53 @@
+See postitus on valminud artikli https://machinelearningmastery.com/why-and-when-to-use-sentence-embeddings-over-word-embeddings/ baasil.
+
+Sõna- vs Lausevektorid: Üllatav Tõde, Mida Sinu NLP-Projekt Vajab
+
+Sissejuhatus
+
+Igaüks, kes töötab tekstiandmetega, seisab silmitsi fundamentaalse probleemiga: kuidas mõista ja võrrelda lausete tähendust? See on kriitiline samm peaaegu igas loomuliku keele töötluse (NLP) projektis, alates semantilisest otsingust kuni sentimentanalüüsini. Tihti lähtutakse levinud, kuid ekslikust eeldusest, et lause tähenduse mõistmiseks piisab lihtsalt selle üksikute sõnade vektorite (näiteks BERT-mudelist saadud) keskmistamisest. See lähenemine tundub intuitiivne, kuid see on täis varjatud lõkse.
+
+See artikkel paljastab mitu vastupidisena tunduvat tõde selle kohta, miks see lihtne meetod sageli ebaõnnestub ja millal on spetsiaalselt loodud tööriist – lausevektorid – dramaatiliselt parem valik. Unustage keeruline teooria; keskendume praktilistele ja mõjusatele järeldustele, mis aitavad teil valida oma järgmise projekti jaoks õige teksti esitusviisi.
+
+1. Takeaway 1: Sõnavektorite keskmistamine on lõks, mis lahjendab tähendust
+
+Kuigi sõnavektorid on suurepärased üksikute sõnade tähenduse tabamiseks, viib nende lihtne keskmistamine terve lause jaoks sageli olulise info kaotsiminekuni. See on kõige peamine piirang, mis tekib, kui üritatakse sõnadele mõeldud tööriista rakendada lausetele.
+
+Vaatame konkreetset näidet, mis illustreerib probleemi selgelt. Kujutage ette lauset: "Orkestri esitus oli suurepärane, kuid puhkpillide sektsioon vaevles kohati." See lause sisaldab nii selgelt positiivset ("suurepärane") kui ka negatiivset ("vaevles") sentimenti. Kui me keskmistaksime kõigi nende sõnade vektorid, saaksime tõenäoliselt tulemuseks neutraalse esituse. Kogu nüanss – nii positiivne kui ka negatiivne tagasiside – läheks kaduma. See tähenduse lahjendamine on kriitiline viga ülesannetes, kus on vaja mõista teksti tegelikku sisu.
+
+2. Takeaway 2: Isegi Kontekstipõhised Sõnavektorid Võivad Lauseid Võrreldes Eksida
+
+Võiks eeldada, et kaasaegsed ja võimsad mudelid nagu BERT lahendavad selle probleemi, kuna nad loovad kontekstipõhiseid sõnavektoreid. Kuid isegi need täiustatud mudelid ei ole oma olemuselt loodud lausete terviklikuks sarnasuse hindamiseks. Naiivne lähenemine, kus kasutatakse BERT-i tokenivektorite keskmist, võib viia üllatavalt kehvade tulemusteni.
+
+Ühes eksperimendis võrreldi kolme lauset (A, B ja C), kasutades just seda "keskmistatud BERT-i" meetodit. Tulemused olid kõnekad ja vastupidiselt ootustele segadusttekitavad. Kahe omavahel seotud lause (A ja B) sarnasusskooriks arvutati kõrge 0.876, mis tundub esmapilgul hea. Probleem ilmnes aga siis, kui võrreldi omavahel mitteseotud lauseid (A ja C) – nende sarnasusskooriks tuli samuti segadusttekitavalt kõrge 0.482.
+
+See on suur puudus. Mudel, mis ei suuda usaldusväärselt eristada seotud ja mitteseotud lauseid, ei sobi praktilisteks ülesanneteks nagu semantiline otsing või sarnasuse võrdlus.
+
+3. Takeaway 3: Spetsiaalsed Lausemudelid Eristavad Olulist Ebaolulisest Selgelt
+
+Erinevalt eelnevast lähenemisest on olemas spetsiaalselt lausete jaoks loodud mudelid nagu Sentence-BERT (SBERT). Need on treenitud mõistma ja kodeerima tervete lausete tähendust ühteainsasse vektorisse.
+
+Kui sama eksperiment viidi läbi SBERT-iga, olid tulemused drastiliselt erinevad ja palju intuitiivsemad. SBERT andis omavahel seotud lausetele (A ja B) soliidse sarnasusskoori 0.661. Kõige olulisem erinevus ilmnes aga mitteseotud lausete (A ja C) võrdlemisel: nende skoor oli -0.001, mis on praktiliselt null. See näitab, et SBERT suudab tähenduslikult erinevad laused selgelt eristada.
+
+SBERT suudab lauseid puhtalt eristada (A ↔ B = 0.661 vs. A ↔ C ≈ 0), peegeldades paremini lausetasandi semantikat. See on otsustav eelis semantilise otsingu ja sarnasuse ülesannetes.
+
+Selle praktilist väärtust demonstreeris ka otsingunäide. Päring "Arvustus kontserdist, kus puhkpillid olid ebaühtlased" leidis kõige täpsema vastena lause B. See kinnitab, et lausevektorid on reaalsetes rakendustes, nagu otsingumootorid ja RAG-süsteemid, märkimisväärselt tõhusamad.
+
+4. Takeaway 4: Efektiivsus on Lausevektorite Varjatud Supervõime
+
+Lausevektorid ei ole semantilistes ülesannetes mitte ainult täpsemad, vaid ka oluliselt efektiivsemad. See on praktiline eelis, mida ei tohi alahinnata, eriti suurte andmemahtude korral.
+
+Arvutuslik erinevus on lihtne. Lausevektorite võrdlemine on uskumatult kiire, sest iga lause on esitatud üheainsa fikseeritud suurusega vektorina. Erinevus tuleneb arvutuslikust keerukusest: SBERT-i lausevektorite võrdlemine toimub O(n) ajaga, samas kui BERT-i tokeni-taseme võrdlus nõuab O(n²) arvutuslikku aega. See muudab lausevektorid ideaalseks valikuks laiaulatuslike rakenduste jaoks.
+
+Kokkuvõtlik Tabel: Peamised Erinevused
+
+Tunnus	Sõnavektorid	Lausevektorid
+Ulatus	Üksikud sõnad (tokenid)	Terved laused või tekstilõigud
+Peamine Kasutusala	Süntaktiline analüüs, tokeni-taseme ülesanded	Semantiline analüüs, üldise tähenduse mõistmine
+Parim Rakendus	NER, POS-märgistamine, keelteülene kaardistamine	Semantiline otsing, klassifitseerimine, klasterdamine, RAG
+Puudus	Raske koondada lause tähenduseks ilma informatsiooni kaotsiminekuta	Ei sobi ülesanneteks, mis nõuavad üksikute sõnade suhete analüüsi
+
+Kokkuvõte
+
+Valik sõna- ja lausevektorite vahel sõltub täielikult teie NLP-ülesande eesmärgist. Kui peate tabama teksti terviklikku, kompositsioonilist tähendust – nägema "metsa" –, siis pakuvad lausevektorid paremat jõudlust ja efektiivsust. Kui teie ülesanne nõuab aga sügavat sukeldumist üksikute sõnade grammatilisse struktuuri ja suhetesse – nägema "puid" –, on sõnavektorid endiselt asendamatu tööriist.
+
+Millist oma praegustest NLP-ülesannetest saaksid sa ümber mõtestada, kasutades semantilise tähenduse paremaks tabamiseks lausevektoreid?
