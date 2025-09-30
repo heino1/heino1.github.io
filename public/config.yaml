@@ -1,0 +1,86 @@
+---
+title: "Onu Heino veebileht"
+baseURL: "https://heino1.github.io/"
+theme: "zen"
+languageCode: "et"
+defaultContentLanguage: "et"
+pluralizelisttitles: false
+removePathAccents: true
+enableEmoji: true 
+
+languages:
+  et:
+    languageName: "Eesti"
+    weight: 1
+    languageCode: "et"
+    languageDirection: "ltr"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+    renderer:
+      unsafe: true
+params:
+  contact: "heino.talvik@gmail.com"
+  description: "Zen teemaga Onu Heino leht"
+  dateformat: "02.01.2006"
+  favicon: "apple-touch-icon.png"
+  feedlinks: true 
+  icon: "apple-touch-icon.png"
+  image: "apple-touch-icon.png"
+  imageMaxWidth: 400
+  logoWidth: 64
+  mobileMenu: true
+  poweredby: true
+  sidebar: true
+  sidebar_position: "right"
+  submitted: true
+  math: true
+  copyright: "© 2025"
+  author:
+    name: "" 
+    url: "https://heino1.github.io/"
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Projects
+      pageRef: /projects
+      weight: 2
+    - name: Blog
+      pageRef: /blog
+      weight: 3
+    - name: About
+      pageRef: /about
+      weight: 4
+  sidebar:
+    - name: Projects
+      pageRef: /projects
+      weight: 1
+    - name: Blogs
+      pageRef: /blog
+      weight: 2
