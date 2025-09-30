@@ -1,6 +1,6 @@
 ---
 title: "Teine blogipostitus"
-date: 2025-05-26
+date: 2025-05-30
 draft: false
 ---
 
