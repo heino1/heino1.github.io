@@ -1,0 +1,13 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Minust  Onu Heino veebileht",
+    "description": "  Minust  Onu Heino veebileht",
+    "home_page_url": "https://heino1.github.io/",
+    "feed_url": "https://heino1.github.io/about/index.json",
+    "language": "et",
+    "icon": "https://heino1.github.io/apple-touch-icon.png",
+    "favicon": "https://heino1.github.io/apple-touch-icon.png",
+    "items": [
+        ]
+}
