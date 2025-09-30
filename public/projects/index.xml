@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projektid  Onu Heino veebileht</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>  Projektid  Onu Heino veebileht</description>
+    <generator>Hugo</generator>
+    <language>et</language>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI loodud presentatsioon</title>
+      <link>http://localhost:1313/projects/projekt-1/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/projekt-1/</guid>
+      <description>&lt;h1 id=&#34;ai-management-ai-jõududega&#34;&gt;AI management AI jõududega&lt;/h1&gt;&#xA;&lt;p&gt;Paul leis andis teada, et plaanib teha avalikku loengut teemadel:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI management, AI risk management ja AI governance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;küsisin AI käest&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;My colleague, a university professor, is preparing an open lecture about &amp;ldquo;AI management, AI risk management and AI governance&amp;rdquo;. I am interested in how you can prepare this presentation?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;ja siin on leheküled, , mille ta sellele minimalistlikult küsimusele vastu andis andis:&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
