@@ -3,6 +3,7 @@ title: "Millist metoodikat Sinu NLP-projekt vajab?"
 date: 2025-09-27
 draft: false
 ---
+
 See postitus on valminud artikli https://machinelearningmastery.com/why-and-when-to-use-sentence-embeddings-over-word-embeddings/ baasil.
 
 Sõna- vs Lausevektorid: Üllatav Tõde, Mida Sinu NLP-Projekt Vajab
