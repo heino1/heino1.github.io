@@ -1,0 +1,17 @@
+
+#css
+
+.content code {
+    background-color: #f5f5f5 !important;
+    padding: 2px 4px !important;
+    border-radius: 3px !important;
+    display: inline-block !important;
+}
+footer,
+.footer,
+.footer__content {
+  border-top: none !important;
+}
+hr {
+  display: none !important;
+}

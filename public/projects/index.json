@@ -3,19 +3,27 @@
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Projektid  Onu Heino veebileht",
     "description": "  Projektid  Onu Heino veebileht",
-    "home_page_url": "http://localhost:1313/",
-    "feed_url": "http://localhost:1313/projects/index.json",
+    "home_page_url": "https://heino1.github.io/",
+    "feed_url": "https://heino1.github.io/projects/index.json",
     "language": "et",
-    "icon": "http://localhost:1313/apple-touch-icon.png",
-    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "icon": "https://heino1.github.io/apple-touch-icon.png",
+    "favicon": "https://heino1.github.io/apple-touch-icon.png",
     "items": [
         {
             "title": "AI loodud presentatsioon",
             "date_published": "2025-04-27T00:00:00Z",
             "date_modified": "2025-04-27T00:00:00Z",
-            "id": "http://localhost:1313/projects/projekt-1/",
-            "url": "http://localhost:1313/projects/projekt-1/",
-            "content_html": "\u003ch1 id=\"ai-management-ai-jõududega\"\u003eAI management AI jõududega\u003c/h1\u003e\n\u003cp\u003ePaul leis andis teada, et plaanib teha avalikku loengut teemadel:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAI management, AI risk management ja AI governance\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eküsisin AI käest\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eMy colleague, a university professor, is preparing an open lecture about \u0026ldquo;AI management, AI risk management and AI governance\u0026rdquo;. I am interested in how you can prepare this presentation?\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eja siin on leheküled, , mille ta sellele minimalistlikult küsimusele vastu andis andis:\u003c/p\u003e\n"
+            "id": "https://heino1.github.io/projects/projekt-1/",
+            "url": "https://heino1.github.io/projects/projekt-1/",
+            "content_html": "\u003ch1 id=\"ai-management-ai-jõududega\"\u003eAI management AI jõududega\u003c/h1\u003e\n\u003cp\u003ePaul Leis andis teada, et plaanib teha avalikku loengut teemadel:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAI management, AI risk management ja AI governance\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eja mind hakkas huvitama, et kuidas AI sellise esitlusega hakkama saaks ning nii ma siis küsisin AI käest:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eMy colleague, a university professor, is preparing an open lecture about \u0026ldquo;AI management, AI risk management and AI governance\u0026rdquo;. I am interested in how you can prepare this presentation?\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eja siin on leheküljed, kuidas ta sellele minimalistlikule küsimusele vastas:\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://heino1.github.io/heino1.github.io-AI-management/\"\u003eAI põhjalik vastus \u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "ÄriInfosüsteemid: Programmide omavaheline suhtlus",
+            "date_published": "2025-04-27T00:00:00Z",
+            "date_modified": "2025-04-27T00:00:00Z",
+            "id": "https://heino1.github.io/projects/projekt-2/",
+            "url": "https://heino1.github.io/projects/projekt-2/",
+            "content_html": "\u003cp\u003eSlaidiseeria põhjal AI poolt kujundatud veebileht.\u003c/p\u003e\n\u003ch1 id=\"äriinfosüsteemid-programmide-omavaheline-suhtlus\"\u003eÄriInfosüsteemid: Programmide omavaheline suhtlus\u003c/h1\u003e\n\u003cp\u003eTegin programmide suhlusest logistika tudengitele slaidiseeria ja see sai liiga mahukas.\u003c/p\u003e\n\u003cp\u003eEt tudengite elu kergendada, lasksin AI\u0026rsquo;l selle 163 slaidilise seeria interaktiivseks veebileheks vormistada.\nTulemus sai parem, kui ma ootasin, kuid eks vaadake ise.\u003c/p\u003e\n\u003cp\u003eSaidi keelevahetus ei toimi, kuid ma loodan, et see ei ole probleem.\u003c/p\u003e\n\u003cp\u003eKogu vormistus ja kujundus on AI poolt, pildimaterjal on slaididelt ja on minu poolt sinna pandud.\u003c/p\u003e\n\u003cp\u003eVeebi lehtedele ma midagi omalt poolt lisanud ei ole, ainult enda promomise kohad välja võtnud.\u003c/p\u003e\n\u003cp\u003eNautige: \u003ca href=\"https://heino1.github.io/programmide_communikatsioon/\"\u003eAI tehtud veebileht \u003c/a\u003e\u003c/p\u003e\n"
         }
         ]
 }

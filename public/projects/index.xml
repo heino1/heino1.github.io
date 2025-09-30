@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projektid  Onu Heino veebileht</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://heino1.github.io/projects/</link>
     <description>  Projektid  Onu Heino veebileht</description>
     <generator>Hugo</generator>
     <language>et</language>
     <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
-      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://heino1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI loodud presentatsioon</title>
-      <link>http://localhost:1313/projects/projekt-1/</link>
+      <link>https://heino1.github.io/projects/projekt-1/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projekt-1/</guid>
-      <description>&lt;h1 id=&#34;ai-management-ai-jõududega&#34;&gt;AI management AI jõududega&lt;/h1&gt;&#xA;&lt;p&gt;Paul leis andis teada, et plaanib teha avalikku loengut teemadel:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI management, AI risk management ja AI governance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;küsisin AI käest&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;My colleague, a university professor, is preparing an open lecture about &amp;ldquo;AI management, AI risk management and AI governance&amp;rdquo;. I am interested in how you can prepare this presentation?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;ja siin on leheküled, , mille ta sellele minimalistlikult küsimusele vastu andis andis:&lt;/p&gt;&#xA;</description>
+      <guid>https://heino1.github.io/projects/projekt-1/</guid>
+      <description>&lt;h1 id=&#34;ai-management-ai-jõududega&#34;&gt;AI management AI jõududega&lt;/h1&gt;&#xA;&lt;p&gt;Paul Leis andis teada, et plaanib teha avalikku loengut teemadel:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI management, AI risk management ja AI governance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ja mind hakkas huvitama, et kuidas AI sellise esitlusega hakkama saaks ning nii ma siis küsisin AI käest:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;My colleague, a university professor, is preparing an open lecture about &amp;ldquo;AI management, AI risk management and AI governance&amp;rdquo;. I am interested in how you can prepare this presentation?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;ja siin on leheküljed, kuidas ta sellele minimalistlikule küsimusele vastas:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://heino1.github.io/heino1.github.io-AI-management/&#34;&gt;AI põhjalik vastus &lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>ÄriInfosüsteemid: Programmide omavaheline suhtlus</title>
+      <link>https://heino1.github.io/projects/projekt-2/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://heino1.github.io/projects/projekt-2/</guid>
+      <description>&lt;p&gt;Slaidiseeria põhjal AI poolt kujundatud veebileht.&lt;/p&gt;&#xA;&lt;h1 id=&#34;äriinfosüsteemid-programmide-omavaheline-suhtlus&#34;&gt;ÄriInfosüsteemid: Programmide omavaheline suhtlus&lt;/h1&gt;&#xA;&lt;p&gt;Tegin programmide suhlusest logistika tudengitele slaidiseeria ja see sai liiga mahukas.&lt;/p&gt;&#xA;&lt;p&gt;Et tudengite elu kergendada, lasksin AI&amp;rsquo;l selle 163 slaidilise seeria interaktiivseks veebileheks vormistada.&#xA;Tulemus sai parem, kui ma ootasin, kuid eks vaadake ise.&lt;/p&gt;&#xA;&lt;p&gt;Saidi keelevahetus ei toimi, kuid ma loodan, et see ei ole probleem.&lt;/p&gt;&#xA;&lt;p&gt;Kogu vormistus ja kujundus on AI poolt, pildimaterjal on slaididelt ja on minu poolt sinna pandud.&lt;/p&gt;&#xA;&lt;p&gt;Veebi lehtedele ma midagi omalt poolt lisanud ei ole, ainult enda promomise kohad välja võtnud.&lt;/p&gt;&#xA;&lt;p&gt;Nautige: &lt;a href=&#34;https://heino1.github.io/programmide_communikatsioon/&#34;&gt;AI tehtud veebileht &lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
