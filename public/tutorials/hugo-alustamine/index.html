@@ -4,24 +4,23 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Tags – Onu Heino veebileht</title>
-<link rel="alternate" type="application/rss+xml" title="rss" href="https://heino1.github.io/tags/index.xml">
+<title>Hugo Alustamine – Onu Heino veebileht</title>
 
-<meta name="created" content="0001-01-01T00:00:00+0000">
-<meta name="modified" content="0001-01-01T00:00:00+0000">
+<meta name="created" content="2026-01-15T00:00:00+0000">
+<meta name="modified" content="2026-01-15T00:00:00+0000">
 
 <meta name="contact" content="heino.talvik@gmail.com">
 <meta property="og:site_name" content="Onu Heino veebileht">
-<meta property="og:title" content="Tags">
-<meta property="og:url" content="https://heino1.github.io/tags/">
-<meta property="og:type" content="website">
+<meta property="og:title" content="Hugo Alustamine">
+<meta property="og:url" content="https://heino1.github.io/tutorials/hugo-alustamine/">
+<meta property="og:type" content="article">
 <meta property="og:image" content="https://heino1.github.io/apple-touch-icon.png">
 <meta name="generator" content="Hugo 0.146.0">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
 
-<link rel="canonical" href="https://heino1.github.io/tags/">
+<link rel="canonical" href="https://heino1.github.io/tutorials/hugo-alustamine/">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -33,9 +32,11 @@
 {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "url" : "https://heino1.github.io/tags/",
-    "name": "Tags",
-    "description": "Zen teemaga Onu Heino leht",
+    "headline": "Hugo Alustamine",
+    "datePublished": "2026-01-15T00:00:00Z",
+    "dateModified": "2026-01-15T00:00:00Z",
+    "url" : "https://heino1.github.io/tutorials/hugo-alustamine/",
+    
     "image" : "https://heino1.github.io/apple-touch-icon.png",
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -73,7 +74,7 @@
 
 </head>
 
-<body class="list-page">
+<body class="single-page">
 <div class="page layout__page layout__sidebar-second">
 <header class="header layout__header">
 <a href="/" title="Home" rel="home" class="header__logo">
@@ -117,13 +118,46 @@
   </div>
 </div>
 <main class="main layout__main">
+<article class="single-view single-view--tutorials">
 <header>
-<h1 class="title">Tags</h1>
+<h1 class="title mb--xxs">Hugo Alustamine</h1>
+<div class="submitted meta">
+<time class="created-date" datetime="2026-01-15T00:00:00Z">15.01.2026</time>
+
+</div>
 </header>
 
+<h1 id="kuidas-alustada-hugoga">Kuidas alustada Hugo&rsquo;ga</h1>
+<p>Hugo on kiire ja paindlik staatiline veebilehe generaator, mis on kirjutatud Go keeles.</p>
+<h2 id="paigaldamine">Paigaldamine</h2>
+<p>Hugo saab paigaldada mitmel viisil:</p>
+<ul>
+<li><strong>macOS</strong>: <code>brew install hugo</code></li>
+<li><strong>Windows</strong>: Laadi alla <code>.exe</code> fail Hugo lehelt</li>
+<li><strong>Linux</strong>: Kasuta pakihaldur või laadi alla binaarfail</li>
+</ul>
+<h2 id="uue-saidi-loomine">Uue saidi loomine</h2>
+<p>Uue Hugo saidi loomiseks kasuta käsku:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new site minu-sait
+</span></span><span style="display:flex;"><span>cd minu-sait
+</span></span></code></pre></div><h2 id="teema-lisamine">Teema lisamine</h2>
+<p>Hugo vajab teemat, et sait korralikult välja näeks:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;theme = &#39;ananke&#39;&#34;</span> &gt;&gt; config.toml
+</span></span></code></pre></div><h2 id="sisu-loomine">Sisu loomine</h2>
+<p>Uue postituse loomiseks:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new posts/minu-esimene-postitus.md
+</span></span></code></pre></div><h2 id="kohaliku-serveri-käivitamine">Kohaliku serveri käivitamine</h2>
+<p>Vaata oma saiti brauseris:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo server -D
+</span></span></code></pre></div><p>Ava brauser aadressil <code>http://localhost:1313</code></p>
+<h2 id="saidi-ehitamine">Saidi ehitamine</h2>
+<p>Staatiline sait luuakse käsuga:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo
+</span></span></code></pre></div><p>Valmis failid on <code>public/</code> kataloogis.</p>
 
 
-
+</article>
 </main>
 
 
@@ -136,10 +170,10 @@
 </ul>
 </nav>
 <nav class="menu">
-<p class="title"><strong><a href="/tutorials/">Õpetused</a></strong></p>
+<p class="title"><strong><a href="/tutorials/" aria-current="page">Õpetused</a></strong></p>
 <ul>
 <li><a href="/tutorials/git-pohitoed/">Git Põhitõed</a></li>
-<li><a href="/tutorials/hugo-alustamine/">Hugo Alustamine</a></li>
+<li><a href="/tutorials/hugo-alustamine/" aria-current="page">Hugo Alustamine</a></li>
 </ul>
 </nav>
 <nav class="menu">
@@ -166,7 +200,6 @@
 </nav>
 </aside>
 <footer class="footer layout__footer mt--l">
-<p> tags: <a rel="alternate" type="application/rss&#43;xml" href="https://heino1.github.io/tags/index.xml">rss</a></p>
 <footer class="footer">
     <div class="footer__content">
       <div class="footer__counter" style="text-align: center; margin: 10px 0; border-top: none !important;">

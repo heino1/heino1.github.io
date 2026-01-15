@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://heino1.github.io/blog/metoodika_valik/</loc>
-    <lastmod>2025-09-27T00:00:00+00:00</lastmod>
+    <loc>https://heino1.github.io/tutorials/git-pohitoed/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://heino1.github.io/tutorials/hugo-alustamine/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://heino1.github.io/resources/kasulikud-lingid/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://heino1.github.io/resources/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://heino1.github.io/resources/tooriistad/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://heino1.github.io/tutorials/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://heino1.github.io/blog/nlp-metoodika/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
@@ -12,7 +27,7 @@
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://heino1.github.io/blog/teine-postitus/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://heino1.github.io/blog/esimene-postitus/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
