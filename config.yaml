@@ -74,9 +74,15 @@ menus:
     - name: Blog
       pageRef: /blog
       weight: 3
+    - name: Tutorials
+      pageRef: /tutorials
+      weight: 4
+    - name: Resources
+      pageRef: /resources
+      weight: 5
     - name: About
       pageRef: /about
-      weight: 4
+      weight: 6
   sidebar:
     - name: Projects
       pageRef: /projects
@@ -84,3 +90,9 @@ menus:
     - name: Blogs
       pageRef: /blog
       weight: 2
+    - name: Tutorials
+      pageRef: /tutorials
+      weight: 3
+    - name: Resources
+      pageRef: /resources
+      weight: 4
